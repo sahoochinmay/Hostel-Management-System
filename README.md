@@ -4,4 +4,4 @@ It is a static web page of hostel management system. Many students are living in
 
  Here is the main project with complete description:
     
-    https://github.com/sahoochinmay/HostelDayz
+    [HostelDayz](https://github.com/sahoochinmay/HostelDayz)
